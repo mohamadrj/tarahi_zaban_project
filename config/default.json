@@ -1,0 +1,4 @@
+{
+  "mongoURL" : "mongodb+srv://mamad123:mamad123@contactkeeper.zlffn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret" : "secret"
+}
